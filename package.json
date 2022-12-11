@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-console",
+  "version": "1.0.0",
+  "description": "nodejs console for developer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "chaiya",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "@terra-money/feather.js": "^1.0.0-beta.4"
+  }
+}
